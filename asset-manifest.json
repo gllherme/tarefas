@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tarefas/static/css/main.032fc445.chunk.css",
+    "main.js": "/tarefas/static/js/main.643c341a.chunk.js",
+    "main.js.map": "/tarefas/static/js/main.643c341a.chunk.js.map",
+    "runtime-main.js": "/tarefas/static/js/runtime-main.f53c4865.js",
+    "runtime-main.js.map": "/tarefas/static/js/runtime-main.f53c4865.js.map",
+    "static/js/2.e7615394.chunk.js": "/tarefas/static/js/2.e7615394.chunk.js",
+    "static/js/2.e7615394.chunk.js.map": "/tarefas/static/js/2.e7615394.chunk.js.map",
+    "static/js/3.2e7960bf.chunk.js": "/tarefas/static/js/3.2e7960bf.chunk.js",
+    "static/js/3.2e7960bf.chunk.js.map": "/tarefas/static/js/3.2e7960bf.chunk.js.map",
+    "index.html": "/tarefas/index.html",
+    "static/css/main.032fc445.chunk.css.map": "/tarefas/static/css/main.032fc445.chunk.css.map",
+    "static/js/2.e7615394.chunk.js.LICENSE.txt": "/tarefas/static/js/2.e7615394.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f53c4865.js",
+    "static/js/2.e7615394.chunk.js",
+    "static/css/main.032fc445.chunk.css",
+    "static/js/main.643c341a.chunk.js"
+  ]
+}
