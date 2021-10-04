@@ -9,7 +9,7 @@ const AddTask = ({ onAdd }) => {
         e.preventDefault()
 
         if (!text) {
-            alert('Please add a task')
+            alert('Adicione uma tarefa')
             return
         }
 
